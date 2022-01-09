@@ -42,7 +42,7 @@ używających biblioteki mmap.
 
 %package devel
 Summary:	File mapping functionality for OCaml - development part
-Summary(pl.UTF-8):	Funkcjonalność odwzorowywania plików dla OCamla - cześć programistyczna
+Summary(pl.UTF-8):	Funkcjonalność odwzorowywania plików dla OCamla - część programistyczna
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 %requires_eq	ocaml
