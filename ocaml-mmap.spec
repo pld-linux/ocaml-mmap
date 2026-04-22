@@ -11,7 +11,7 @@ Summary:	File mapping functionality for OCaml
 Summary(pl.UTF-8):	Funkcjonalność odwzorowywania plików dla OCamla
 Name:		ocaml-mmap
 Version:	1.1.0
-Release:	1
+Release:	2
 License:	LGPL v2.1 with linking exception
 Group:		Libraries
 #Source0Download: https://github.com/mirage/mmap/releases
